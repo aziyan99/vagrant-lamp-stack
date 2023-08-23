@@ -1,0 +1,8 @@
+---
+configs:
+  private_ip: "192.168.2.20"
+  server_name: "sample.test"
+  server_alias: "www.sample.test"
+  dbname: "sample"
+  dbuser: "sample"
+  dbpassword: "sample"
